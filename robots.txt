@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://high-end-store.vercel.app/sitemap.xml
